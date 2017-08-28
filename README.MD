@@ -4,7 +4,7 @@ An application to clean your room! More specifically to find & sort & order down
 
 ## Specifics
 
-A more detailed explanation on naming conventions for TV shows I used to create this: [KODI Wiki](http://kodi.wiki/view/naming_video_files/TV_showsJ)
+A more detailed explanation on naming conventions for TV shows I used to create this: [KODI Wiki](http://kodi.wiki/view/naming_video_files/TV_showsJ)<br/>
 Regex' I used: [REGEX](http://kodi.wiki/view/Userdata/advancedsettings.xml#.3Ccleanstrings.3E)
 
 ## Prerequisites
