@@ -11,7 +11,6 @@ fun scanFolder(folder: File): File {
             .filter { it.isFile }
             .map { ScannedFile(it) }
             .toList();
-//    folder.walkTopDown().forEach{ println(it) }
     return folder
 }
 
